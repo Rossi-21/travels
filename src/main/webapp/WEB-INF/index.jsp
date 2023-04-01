@@ -15,7 +15,7 @@
 	<script src="/webjars/bootstrap/js/bootstrap.min.js"></script>
 	<title>Save Travels</title>
 </head>
-<body style="background-image: url('images/bg-image.jpeg')">
+<body>
 	<div class="container-fluid" >
 		<h1>Save Travels</h1>
 		<table class="table table-hover table-borderless">

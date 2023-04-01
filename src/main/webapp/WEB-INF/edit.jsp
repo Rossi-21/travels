@@ -15,7 +15,7 @@
 	<script src="/webjars/bootstrap/js/bootstrap.min.js"></script>
 	<title>Save Travels</title>
 </head>
-<body style="background-image: url('images/bg-image.jpeg')">
+<body>
 	<div class="container-fluid">
 		<div class="mb-3 d-flex align-items-center">
 			<h1 class="me-5">Edit an Expense</h1>
